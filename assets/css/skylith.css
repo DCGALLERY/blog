@@ -5538,6 +5538,60 @@ aside.nk-sidebar .nk-widget ~ .nk-widget {
     vertical-align: middle;
 }
 
+
+.nk-categories-list {
+    padding: 0;
+    margin: 0;
+    margin-top: -10px;
+    list-style-type: none;
+}
+
+.nk-categories-list > li {
+    padding: 0;
+    margin: 0;
+}
+
+.nk-categories-list-white {
+    padding: 0;
+    margin: 0;
+    margin-top: -10px;
+    list-style-type: none;
+}
+
+.nk-categories-list-white > li {
+    padding: 0;
+    margin: 0;
+}
+.nk-categories-list-white > li + li::before {
+    content: "";
+    display: block;
+    border-bottom: 1px solid;
+    opacity: .15;
+}
+
+.nk-categories-list-white > li a {
+    display: block;
+    padding: 14px 0;
+    color: #cbcbcb;
+    text-decoration: none;
+    -webkit-transition: .2s;
+    -o-transition: .2s;
+    transition: .2s;
+}
+
+.nk-categories-list-white > li a:hover {
+    color: #b9a186;
+}
+
+.nk-categories-list-white > li a > span {
+    display: inline-block;
+    margin-right: 7px;
+    margin-left: -5px;
+    font-size: 1.1rem;
+    vertical-align: middle;
+}
+
+
 .nk-tags-list {
     display: -webkit-box;
     display: -ms-flexbox;
