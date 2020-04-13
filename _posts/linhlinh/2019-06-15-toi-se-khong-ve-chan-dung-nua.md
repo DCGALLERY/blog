@@ -11,3 +11,9 @@ Vẽ là một trong những điều gây hứng thú với tôi. Từ nhỏ đ�
 Cái hồi đó còn hay nghe nhạc Hàn nên nhóm nào thích là đem bút dạ bút lông thước kẻ ra kẻ bằng hết nên hồi đó có hẳn một bộ sưu tập về cái đó (không nhớ giờ nó đang nơi nào nữa). Thời gian thay đổi nên vài điều cũng đổi theo, và thể loại tiếp theo tôi tìm hiểu là chân dung hay chuyên hơn nữa là truyền thần. Cho đến này hôm nay, tôi chỉ đến trình độ vẽ được ra cái hình nhưng tôi quyết định rằng tôi sẽ không tiếp tục tìm hiểu và vẽ chân dung nữa.
 
 Có điều gì đó đã "nguyền" vào những bức hình tôi vẽ. Thật lạ kì tại sao tôi cứ vẽ ảnh tặng ai đó thì sau đó mối quan hệ của tôi và người đó sẽ đi xuống không lâu sau đó. Thêm một lần nữa tôi đã trải qua điều này, và có lẽ tôi cần quyết định để không còn ám ảnh điều này. 
+
+<img style="width: 100%" alt="" src="imagesBlog/2019_06_15_02.jpg">
+
+Thật lạ sao cuộc sống của tôi có rất nhiều thứ trùng hợp, hoặc nó logic kì lạ đến không thể giải thích, vẽ thì liên quan gì đến mối quan hệ nhỉ, mối quan hệ do con người mà. Nhưng nó lại diễn ra liên tục nhiều hơn hai thì có lẽ thật khó để con người ta không quan tâm về lý do. Có lẽ xem như dừng lại để không ám ảnh về nó. Lại nhớ hồi nhỏ, chị mình từng không cho mình chụp hình những con chó nhà nuôi. Lạ không? Vì trước đó mỗi lần chụp chó là chúng lại bị bệnh. Và mãi sau này, một thời gian dài sau này khi không ai nhớ điều đó nữa thì đã có thể chụp được chúng.
+
+Lần này cũng sẽ vậy, không vẽ nữa.
