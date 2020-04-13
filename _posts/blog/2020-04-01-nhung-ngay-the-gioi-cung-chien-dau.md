@@ -7,7 +7,7 @@ tags: [hot, summer]
 excerpt_separator: <!--more-->
 time:   April 13, 2020
 ---
-Tôi ghé qua trang blog của mình trong những ngày này, tôi lại bỏ mặc nó lần nữa. Đã khá lâu rồi tôi chưa viết gì, khá lâu rồi không cập nhật gì. Ngày hôm nay, tôi viết trở lại. Mà ngồi đọc những bài viết cũ lại chẳng dám viết nữa, đọc văn của mình mà chết vì cười ))).<!--more-->
+Tôi ghé qua trang blog của mình trong những ngày này, tôi lại bỏ mặc nó lần nữa. Đã khá lâu rồi tôi chưa viết gì, khá lâu rồi không cập nhật gì. Ngày hôm nay, tôi viết trở lại. Nhưng ngồi đọc qua mấy bài viết cũ lại chẳng dám viết nữa, đọc văn của mình mà chết vì cười ))).<!--more-->
 
 <img style="width: 100%" alt="" src="imagesBlog/2020_04_13/2020_04_13_06.jpg">
 
