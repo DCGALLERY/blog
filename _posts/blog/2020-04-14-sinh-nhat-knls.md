@@ -30,9 +30,9 @@ Một chút LDC ở Kết Nối Lam Sơn
 
 <img style="width: 100%" alt="" src="imagesBlog/2020_04_14/2020_04_14_05.jpg">
 
-<img style="width: 100%" alt="" src="imagesBlog/2020_04_14/2020_04_14_06.jpg">
+<img style="width: 100%" alt="" src="imagesBlog/2020_04_14/2020_04_14_06.JPG">
 
-<img style="width: 100%" alt="" src="imagesBlog/2020_04_14/2020_04_14_07.jpg">
+<img style="width: 100%" alt="" src="imagesBlog/2020_04_14/2020_04_14_07.JPG">
 
 Chúc mọi người bình an, chúc KNLS tuổi mới phát triển hơn nữa. Hẹn ngày tái ngộ.
 
