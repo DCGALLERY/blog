@@ -7,7 +7,7 @@ tags:
 excerpt_separator: <!--more-->
 time:   April 16, 2020
 ---
-Thêm một sinh nhật xa nhà, nhưng lần này đã khác đi. Mình đã không còn nghĩ sinh nhật là một ngày bình thường nữa. Thay vào đó, sinh nhật bây giờgiờ là một ngày đặc biệt, một ngày ý nghĩa và đó là một ngày mình được vui. Năm nay, mình đã có những cảm giác đó. Có những ngày mình vui, có những ngày mình không vui, nhưng hôm nay mình vui.
+Thêm một sinh nhật xa nhà, nhưng lần này đã khác đi. Mình đã không còn nghĩ sinh nhật là một ngày bình thường nữa. Thay vào đó, sinh nhật bây giờ là một ngày đặc biệt, một ngày ý nghĩa và đó là một ngày mình được vui. Năm nay, mình đã có những cảm giác đó. Có những ngày mình vui, có những ngày mình không vui, nhưng hôm nay mình vui.
 <!--more-->
 Ai cũng có một ngày sinh duy nhất để kỷ niệm, nhưng với mình lại khác. Mình có tới 2 ngày như thế. Tại sao lại vậy? Một ngày theo lịch âm, một ngày theo lịch dương. Rồi câu hỏi mới là: Tại sao phải phức tạp thế? Câu trả lời là  bố mẹ mình đã khai sinh cho mình bằng ngày âm, và ngày âm đó cũng đặc biệt trong tháng (mùng 1) hơn là con số 16 của ngày dương. Mọi thứ vẫn diễn ra bình thường cho tới khi mình dùng mạng xã hội. Mạng xã hội chỉ sử dụng ngày dương, mình đã khai sinh nhật như giấy khai sinh. Vì thế mỗi lần mạng xã hội nhắc sinh nhật là mình sinh vào một ngày chẳng liên quan gì - và mình nhận được những lời chúc của các bạn trong ngày đó mà thực sự nó không phải ngày của mình. Cuối cùng, mình đã sử dụng ngày dương lúc mình sinh ra để làm ngày sinh trên mạng xã hội. Và dần dần, đó là ngày tổ chức sinh nhật chính thức của mình, nhưng mình vẫn dùng ngày sinh theo lịch âm cho những người thân và gia đình hay những người quan tâm mình chia sẻ niềm vui. Đó, mình có hai ngày sinh là thế đó. 
 
