@@ -34,7 +34,7 @@ Sau ngày sinh nhật sớm, mình suy nghĩ trong đầu, ngày 16 tới, mình
 
 <img style="width: 100%" alt="" src="imagesBlog/2020_04_16/2020_04_16_10.jpg">
 
-Cuối cùng thì vẫn cần thêm sự “hỗ trợ” của đám bạn và ông anh phòng bên để việc tổ chức diễn ra “không như kế hoạch của tôi”, nó không còn đơn giản nữa, phức tạp hơn, và tuyệt vời hơn.
+Cuối cùng thì vẫn cần thêm sự “hỗ trợ” của đám bạn và ông anh phòng bên để việc tổ chức diễn ra “không như kế hoạch của mình”, nó không còn đơn giản nữa, phức tạp hơn, và tuyệt vời hơn.
 
 <img style="width: 100%" alt="" src="imagesBlog/2020_04_16/2020_04_16_07.jpg">
 
