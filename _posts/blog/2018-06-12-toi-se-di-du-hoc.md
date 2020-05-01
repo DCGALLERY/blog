@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: construction
 title: Tôi sẽ đi du học
 link_img: imagesBlog/2018_06_12_01.jpg
 categories: [blog]

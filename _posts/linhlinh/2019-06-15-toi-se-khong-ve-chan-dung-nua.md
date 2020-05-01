@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: construction
 title: Tôi sẽ không vẽ chân dung nữa
 link_img: imagesBlog/2019_06_15_01.jpg
 categories: [linhtinh]

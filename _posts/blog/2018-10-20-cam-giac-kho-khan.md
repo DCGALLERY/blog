@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: construction
 title: Cảm giác khó khăn
 link_img: imagesBlog/2018_10_20_07.jpg
 categories: [blog]
